@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{A73ED920-420F-4206-B19D-6D8A92C42D56}'];loadHandler&&loadHandler(8, '<div id="spr0_2415f03b"><div id="spr1_2415f03b" class="kern slide"><img id="img1_2415f03b" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2415f03b" class="kern slide"><div id="spr3_2415f03b"><img id="img0_2415f03b" src="data/img9.png" width="960" height="540" alt="metin, elektronik eşyalar, bilgisayar içeren bir resim\
+\
+Açıklama otomatik olarak oluşturuldu"/></div></div></div>', '{"s":[]}');})();

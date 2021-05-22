@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{A73ED920-420F-4206-B19D-6D8A92C42D56}'];loadHandler&&loadHandler(7, '<div id="spr0_2415ee28"><div id="spr1_2415ee28" class="kern slide"><img id="img1_2415ee28" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2415ee28" class="kern slide"><div id="spr3_2415ee28" style="left:0.002px;top:0.101px;"><img id="img0_2415ee28" src="data/img8.png" width="960" height="540" alt="metin, iş kartı içeren bir resim\
+\
+Açıklama otomatik olarak oluşturuldu" style="left:-0.001px;top:-0.05px;"/></div></div></div>', '{"s":[]}');})();
